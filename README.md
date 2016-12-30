@@ -30,7 +30,9 @@ Need to be done
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![demo](https://cloud.githubusercontent.com/assets/19783300/21559303/8b68b9fc-cdfe-11e6-9af5-b760b55b13d3.gif)
+
+also saved in repository
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/
 
